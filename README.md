@@ -1,5 +1,5 @@
 # MGU.ONE-kitPvP-map
-mgu.one kitpvp map (i do not know the credits of this map i apoligize that i did not give credit,  [this is a temporary  repo you have until 7/4/2022 EU date format] 
+mgu.one kitpvp map (i do not know the credits of this map i apoligize that i did not give credit)
 
 **How to install**
 
